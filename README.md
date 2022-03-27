@@ -7,8 +7,7 @@
     \____/ \___/ \__, |___/\__|_|\___|_|\_\
                   __/ |                    
  ```
-
-```
+ 
 ⭐ Star us on GitHub — it helps!
 
 [![repo-size](https://img.shields.io/github/languages/code-size/imacwink/Joystick?style=flat)](https://github.com/imacwink/Joystick/archive/main.zip) [![tag](https://img.shields.io/github/v/tag/imacwink/Joystick)](https://github.com/imacwink/Joystick/tags) [![license](https://img.shields.io/github/license/imacwink/Joystick)](LICENSE) 
