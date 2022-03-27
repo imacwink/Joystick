@@ -40,5 +40,5 @@ macwink$ tree -C -L 2
 
 ## Screenshot
 
-![image]( https://github.com/imacwink/Joystick/master/abc.jpg)
+![image](https://github.com/imacwink/Joystick/blob/main/Assets/Artwork/Gif/202203271712.gif)
 
